@@ -9,7 +9,7 @@
 }
 
 QWidget {
-    background-color: darkseagreen;
+    background-color: rgb(33, 133, 221);
 }
 
 QLineEdit {
@@ -30,7 +30,7 @@ QPushButton {
 }
 
 QPushButton:hover {
-    background-color:rgb(87, 87, 87);
+    background-color: rgb(80, 139, 192);
     font-size: 1.05em;
     border-radius: 0.3em;
     border: 1px solid rgb(51, 51, 51);
